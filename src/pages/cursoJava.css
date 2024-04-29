@@ -1,0 +1,27 @@
+
+  /*background-image: url(../image/Cursojava.png); */
+
+
+#titulo{
+    color: rgb(255, 255, 255);
+    font-size: 30px;
+    margin-left: 80px;
+}
+
+p{
+    font-size: 22px;
+    margin-left: 120px;
+    color: white;
+}
+
+#container{
+    margin-left: 120px;
+}
+
+a{
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+}
+#titulo{
+    margin-bottom: 500px;
+}

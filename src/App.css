@@ -1,0 +1,19 @@
+#root {
+  max-width: 1000px;
+  margin: 0 auto;
+  padding: 0 auto;
+  text-align: center;
+  height: 0px;
+}
+
+.card {
+  padding: 0px;
+}
+
+.read-the-docs {
+  color: #888;
+}
+
+#titulo1{
+  margin-bottom: 350px;
+}
